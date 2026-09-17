@@ -1,0 +1,4 @@
+[
+    {"name":"Bob","age":24,"isMale":true},
+    {"name":"Linda","age":81,"isMale":false}
+]
