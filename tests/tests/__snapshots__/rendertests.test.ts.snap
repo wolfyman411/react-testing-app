@@ -1,0 +1,17 @@
+// Jest Snapshot v1, https://jestjs.io/docs/snapshot-testing
+
+exports[`Page home renders correctly 1`] = `
+<div
+  class="container"
+>
+  <h1>
+    Testing Page
+  </h1>
+  <h2>
+    Interaction Test
+  </h2>
+  <button>
+    Press
+  </button>
+</div>
+`;
